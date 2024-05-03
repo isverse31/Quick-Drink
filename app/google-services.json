@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "718682109634",
+    "firebase_url": "https://dispensador-5a74a-default-rtdb.firebaseio.com",
+    "project_id": "dispensador-5a74a",
+    "storage_bucket": "dispensador-5a74a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718682109634:android:aaa95238e2d92e7e752d5b",
+        "android_client_info": {
+          "package_name": "com.example.dispensador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbg_spJqjcCJq1GceZlQNQCdMVnQQi9Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718682109634:android:94a54664e465ab13752d5b",
+        "android_client_info": {
+          "package_name": "com.example.esp32"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbg_spJqjcCJq1GceZlQNQCdMVnQQi9Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
